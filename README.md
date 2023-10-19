@@ -1,5 +1,5 @@
 # Do journal reviewers differ in their basic behavioral patterns based on gender, experience, or position?
-In this paper, we present results to further increase the support
+We present results to further increase the support
 for the imperative of universalism in scientific evaluation. This study
 constructed a conceptual framework for the manuscript evaluation by
 peer reviewers using a textbook model of associative memory and a
