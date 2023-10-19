@@ -27,6 +27,6 @@ The paper associated with this  study is:
  Preprint: https://www.researchgate.net/publication/374841229_Do_journal_reviewers_differ_in_their_basic_behavioral_patterns_based_on_gender_experience_or_position.**
 
 The structure of information given is the following:
-* **data** The survey responses
+* **data** The survey responses.
 * **PLS** SmartPLS software was used to perform PLS analysis.
 * **Test** The t-test results for the differences between reviewers based on gender, experience and position.  IBM SPSS Software Version 28.0. Armonk, NY: IBM Corp.
