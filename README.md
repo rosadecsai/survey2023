@@ -28,5 +28,5 @@ The paper associated with this  study is:
 
 The structure of information given is the following:
 * **data** The survey responses
-* **PLS** The result of the pls-model. SmartPLS software has been used for it.
+* **PLS** SmartPLS software was used to perform PLS analysis.
 * **Test** The t-test results for the differences between reviewers based on gender, experience and position.  IBM SPSS Software Version 28.0. Armonk, NY: IBM Corp.
