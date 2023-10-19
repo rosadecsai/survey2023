@@ -1,5 +1,25 @@
 # Do journal reviewers differ in their basic behavioral patterns based on gender, experience, or position?
-We have surveyed corresponding authors of scientific papers when they play as manuscript reviewers. We have focused on whether the reviewer integrates experience in previous reviews as norms in a new review and the relevance of complexity and contribution attending to the discipline of the journal. 
+In this paper, we present results to further increase the support
+for the imperative of universalism in scientific evaluation. This study
+constructed a conceptual framework for the manuscript evaluation by
+peer reviewers using a textbook model of associative memory and a
+salience theory that incorporates the notions of surprise and reaction
+to surprise. This conceptual framework determines the reference axis
+against which we compared reviewers in evaluating manuscripts by
+gender, experience, and position. In our study, we fielded an original
+survey to a sample of corresponding authors from seven peer-reviewed
+journals. There were 573 respondents. We found that our survey,
+which was designed to measure certain constructs (i.e., manuscript
+evaluation and disciplinary variations), exhibits satisfactory convergent
+and discriminant validity. Then, we tested differences statistically
+between reviewers by gender, experience, and position. We found
+that when evaluating a manuscript in terms of its contribution and accessibility,
+journal reviewers did not differ significantly in their basic
+behavioral patterns. However, the interaction between the reviewer’s
+memory database and contextual cues may still explain the lack of consistency
+between the different reviews for the same manuscript. This
+is because a biased set of past review experiences in the reviewer’s
+memory database tends to bias their evaluation of the manuscript.
 
 The paper associated with this  study is:
 
