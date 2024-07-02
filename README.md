@@ -1,7 +1,5 @@
-# Do journal reviewers differ in their basic behavioral patterns based on gender, experience, or position?
-We present results to further increase the support
-for the imperative of universalism in scientific evaluation. This study
-constructed a conceptual framework for the manuscript evaluation by
+# The imperative of universalism in peer-reviewed manuscript evaluation
+ This study constructed a conceptual framework for the manuscript evaluation by
 peer reviewers using a textbook model of associative memory and a
 salience theory that incorporates the notions of surprise and reaction
 to surprise. This conceptual framework determines the reference axis
@@ -21,10 +19,6 @@ between the different reviews for the same manuscript. This
 is because a biased set of past review experiences in the reviewer’s
 memory database tends to bias their evaluation of the manuscript.
 
-The paper associated with this  study is:
-
-**Garcia J.A., Montero-Parodi J.J, Rodriguez-Sánchez R., Fdez-Valdivia J. (2023).Do journal reviewers differ in their  basic behavioral patterns based on gender, experience, or position?.
- Preprint: https://www.researchgate.net/publication/374841229_Do_journal_reviewers_differ_in_their_basic_behavioral_patterns_based_on_gender_experience_or_position.**
 
 The structure of information given is the following:
 * **data** The survey responses.
